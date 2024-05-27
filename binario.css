@@ -1,0 +1,18 @@
+.conversão{
+    background-color: black;
+    color: rgb(162, 205, 243);
+    font-family: 'Franklin Gothic Medium';
+}
+.converter:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(23, 144, 250);
+}
+.quadro{
+    background-color: rgb(63, 181, 228);
+    height: 100px;
+    width: 400px;
+    padding-top: 10px;
+    margin: 0 auto;
+    border-radius: 8px;
+
+}
